@@ -1,12 +1,19 @@
 {
-  "name": "ajs",
+  "name": "@meshhi/ajs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meshhi/ajs.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meshhi/ajs/issues"
+  },
+  "homepage": "https://github.com/meshhi/ajs#readme"
 }
